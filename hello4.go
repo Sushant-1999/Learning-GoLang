@@ -11,8 +11,6 @@ func main() {
 
 	} else {
 		fmt.Println("Bye")
-	} else if {
-
-	}
+	} 
 
 }
